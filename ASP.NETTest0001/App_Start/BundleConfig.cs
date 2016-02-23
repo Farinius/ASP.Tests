@@ -24,7 +24,7 @@ namespace ASP.NETTest0001
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-Theme.css",
                       "~/Content/site.css"));
         }
     }
